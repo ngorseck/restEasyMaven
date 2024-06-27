@@ -1,0 +1,25 @@
+### Register User
+POST http://localhost:8080/restEasyMaven/rest/users/savexml
+Content-Type: application/xml
+
+<userDto>
+    <idUser>1</idUser>
+    <emailUser>seck@seck.sn</emailUser>
+    <pwdUser>passer</pwdUser>
+</userDto>
+
+
+
+### Update User
+PUT http://localhost:8080/restEasyMaven/rest/users/updatexml/123
+Content-Type: application/xml
+
+<userDto>
+    <idUser>1</idUser>
+    <emailUser>seck@seck.sn</emailUser>
+    <pwdUser>passer</pwdUser>
+</userDto>
+
+
+### Get User
+GET http://localhost:8080/restEasyMaven/rest/users/get?id=1

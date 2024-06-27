@@ -1,0 +1,25 @@
+### Register User
+POST http://localhost:8080/restEasyMaven/rest/users/save
+Content-Type: application/json
+
+{
+    "id": "1",
+    "email": "seck@seck.sn",
+    "password": "passer"
+}
+
+
+### Update User
+PUT http://localhost:8080/restEasyMaven/rest/users/update/123
+Content-Type: application/json
+
+{
+    "id": "1",
+    "email": "seck@seck.sn",
+    "password": "passer"
+}
+
+
+### Get User
+GET http://localhost:8080/restEasyMaven/rest/users/1
+

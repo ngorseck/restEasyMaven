@@ -1,0 +1,25 @@
+
+{
+Ksrc/main/java/com/samanecorp/resteasymaven/rs/config/ConfigApplication.java,2\c\2cf4b48af9cb90f6d4bf007757dd73509893f13f
+O
+src/main/webapp/WEB-INF/web.xml,2\e\2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+f
+6src/main/webapp/WEB-INF/jboss-deployment-structure.xml,f\7\f78850881148585be3c5c9bffb794e2b5aa07e52
+n
+>src/main/java/com/samanecorp/resteasymaven/rs/dto/UserDto.java,e\e\ee814bcd51d40fdc333603716b75a98d79339549
+u
+Esrc/main/java/com/samanecorp/resteasymaven/rs/web/UserController.java,5\1\51e3f1cfbef0e0b8e4ecfeb3a7eaea0f5e496f97
+I
+src/main/webapp/index.jsp,8\e\8e6d3b70c9f5b02570779b0441540d45eceb0ded
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+E
+http/jsonRequest.httl,d\3\d3b5dea07736c4891597836c448861573ee5e1b1
+D
+http/xmlRequest.httl,f\c\fcd079a1e48e85599f989fdd08395f0e47a5f779
+E
+http/jsonRequest.http,f\7\f7674fafbd3a224d08a9b0e3a896692064eaab80
+D
+http/xmlRequest.http,4\c\4c8874388e0e90014dd7ae19157be0a456a531f0
